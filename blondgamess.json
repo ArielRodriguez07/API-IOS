@@ -1,0 +1,25 @@
+{
+  "producto": [
+    {
+      "id": 1,
+      "nombre": "hollow knught",
+      "precio": "$1000.00",
+      "categoria": "accion",
+      "imagen": "https://raw.githubusercontent.com/ArielRodriguez07/images/refs/heads/main/hollow.png"
+    },
+    {
+      "id": 2,
+      "nombre": "god of war",
+      "precio": "$1200.00",
+      "categoria": "accion",
+      "imagen": "https://raw.githubusercontent.com/ArielRodriguez07/images/refs/heads/main/%2B.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "DOOM",
+      "precio": "$800.00",
+      "categoria": "accion",
+      "imagen": "https://raw.githubusercontent.com/ArielRodriguez07/images/refs/heads/main/wallpapersden.com_doom-eternal-8k-poster_2932x2932.jpg"
+    }
+  ]
+}
